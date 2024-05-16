@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://sandeepprasad.tech/](https://sandeepprasad.tech/)
+<!--- 👨‍💻 All of my projects are available at [https://sandeepprasad.tech/](https://sandeepprasad.tech/) --->
 
 - 💬 Ask me about **react , node**
 
-- 📫 How to reach me **sandeeppetwal51@gmail.com**
+<!-- 📫 How to reach me **sandeeppetwal51@gmail.com** -->
 
-- 📄 Know about my experiences [https://sandeepprasad.tech/](https://sandeepprasad.tech/)
+<!-- 📄 Know about my experiences [https://sandeepprasad.tech/](https://sandeepprasad.tech/) -->
 
 - ⚡ Fun fact **I think i am funny**
 
