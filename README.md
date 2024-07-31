@@ -5,7 +5,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sandeep+Petwal%F0%9F%91%8B;Web+developer+%3C%2F%3E;Let's+Connect!)](https://git.io/typing-svg)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep-petwal&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep-petwal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep-petwal&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeep-petwal" alt="sandeep-petwal" /></a> </p>
 
