@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sandeep Prasad</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<div style="text-align: center;"> 
+  <img width="400" src="[https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Vineet%F0%9F%91%8B;Let's+Connect!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sandeep+Petwal%F0%9F%91%8B;Web+developer+%3C%2F%3E;Let's+Connect!)"/>
+</div>
 
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sandeep+Petwal%F0%9F%91%8B;Web+developer+%3C%2F%3E;Let's+Connect!)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep-petwal&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep-petwal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeep-petwal" alt="sandeep-petwal" /></a> </p>
@@ -15,9 +19,9 @@
 
 <!-- 📫 How to reach me **sandeeppetwal51@gmail.com** -->
 
-<!-- 📄 Know about my experiences [https://sandeepprasad.tech/](https://sandeepprasad.tech/) -->
+📄 Know about my experiences [https://sandeepprasad.tech/](https://sandeepprasad.tech/) 
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **I once fixed a bug by convincing it that it was wrong. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
