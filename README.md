@@ -15,7 +15,7 @@
 
 <!--- 👨‍💻 All of my projects are available at [https://sandeepprasad.tech/](https://sandeepprasad.tech/) --->
 
-- 💬 Ask me about **react , node**
+- 💬 Ask me about **react , node, express, sql , socket.io**
 
 <!-- 📫 How to reach me **sandeeppetwal51@gmail.com** -->
 
