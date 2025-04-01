@@ -19,7 +19,7 @@
 
 <!-- 📫 How to reach me **sandeeppetwal51@gmail.com** -->
 
-📄 Know about my experiences [https://sandeepprasad.tech/](https://sandeepprasad.tech/) 
+📄 Know about my experiences [https://sandeepprasad.xyz/](https://sandeepprasad.xyz/) 
 
 - ⚡ Fun fact - **I once fixed a bug by convincing it that it was wrong.**
 
