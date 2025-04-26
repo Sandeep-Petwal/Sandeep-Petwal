@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/sanju_petwal" target="blank"><img src="https://img.shields.io/twitter/follow/sanju_petwal?logo=twitter&style=for-the-badge" alt="sanju_petwal" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m a **Software Development**
 
 <!--- 👨‍💻 All of my projects are available at [https://sandeepprasad.tech/](https://sandeepprasad.tech/) --->
 
