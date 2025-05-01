@@ -5,11 +5,12 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sandeep+Petwal%F0%9F%91%8B;Web+developer+%3C%2F%3E;Let's+Connect!)](https://git.io/typing-svg)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep-petwal&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+<p align="left">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeep-petwal" alt="sandeep-petwal" /></a> </p>
+ <img src="https://komarev.com/ghpvc/?username=sandeep-petwal&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sanju_petwal" target="blank"><img src="https://img.shields.io/twitter/follow/sanju_petwal?logo=twitter&style=for-the-badge" alt="sanju_petwal" /></a> </p>
+
+
 
 - 🌱 I’m a **Software Development**
 
@@ -27,7 +28,7 @@
 <p align="left">
 <a href="https://twitter.com/sanju_petwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanju_petwal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sandeep-petwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandeep-petwal/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sanju.petwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sanju.petwal" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
