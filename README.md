@@ -3,7 +3,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=sandeep-petwal&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-# Sandeep Prasad 👨🏻‍💻
+# Sandeep Prasad
 <p align="center">
 
 Hi I am Sandeep Prasad, a 24 year old Developer living in Mohali Punjab, India. I am a Computer Science enthusiast.
@@ -41,10 +41,10 @@ I'm excited to turn my creativity into code and bring ideas to life on the web. 
   <code><img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
   <br></br>
-  <code><img height="30" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
+  <!-- <code><img height="30" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code> -->
   <code><img height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/PHP-787CB4?style=for-the-badge&logo=PHP&logoColor=white"></code>
+  <!-- <code><img height="30" src="https://img.shields.io/badge/PHP-787CB4?style=for-the-badge&logo=PHP&logoColor=white"></code> -->
 
 - ### Frameworks / Libraries:
 
@@ -101,7 +101,7 @@ I'm excited to turn my creativity into code and bring ideas to life on the web. 
   <a href="mailto:sanjupetwal51@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-    <a href="https://sandeep-petwal.dev" target="_blank">
+    <a href="https://sandeepprasad.xyz" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
   </a>
 </p>
