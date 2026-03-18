@@ -9,7 +9,7 @@
 Hi I am Sandeep Prasad, a 24 year old Developer living in Mohali Punjab, India. I am a Computer Science enthusiast.
 I'm excited to turn my creativity into code and bring ideas to life on the web. I'm dedicated to learning and growing in this ever-evolving field. Let's build something amazing together!
 
-📄 Know about my experiences [https://sandeepprasad.xyz/](https://sandeepprasad.xyz/)
+📄 Know about my experiences [https://sandeep.cv/](https://sandeep.cv/)
 </p>
 
 
@@ -101,7 +101,7 @@ I'm excited to turn my creativity into code and bring ideas to life on the web. 
   <a href="mailto:sanjupetwal51@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-    <a href="https://sandeepprasad.xyz" target="_blank">
+    <a href="https://sandeep.cv" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
   </a>
 </p>
